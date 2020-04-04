@@ -10,7 +10,7 @@ int theLargest(int array[], int last) {
 		if (array[largest] < array[i])
 			largest = i;
 	}
-	 
+
 	return largest; 
 }
 
