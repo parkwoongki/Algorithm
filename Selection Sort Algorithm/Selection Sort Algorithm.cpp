@@ -10,8 +10,8 @@ int theLargest(int array[], int last) {
 		if (array[largest] < array[i])
 			largest = i;
 	}
-
-	return largest;
+	 
+	return largest; 
 }
 
 void swap(int* n, int* m) {
