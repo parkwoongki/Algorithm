@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Selection Sort Algorithm", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algorithm 과제01", "Algorithm 과제01\Algorithm 과제01.vcxproj", "{D6E24A65-42BE-48E2-BD9F-EB19F54D4ADB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bubble Sort Algorithm", "Bubble Sort Algorithm\Bubble Sort Algorithm.vcxproj", "{8CF8E84F-7FE9-4146-941D-676897B58848}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{D6E24A65-42BE-48E2-BD9F-EB19F54D4ADB}.Release|x64.Build.0 = Release|x64
 		{D6E24A65-42BE-48E2-BD9F-EB19F54D4ADB}.Release|x86.ActiveCfg = Release|Win32
 		{D6E24A65-42BE-48E2-BD9F-EB19F54D4ADB}.Release|x86.Build.0 = Release|Win32
+		{8CF8E84F-7FE9-4146-941D-676897B58848}.Debug|x64.ActiveCfg = Debug|x64
+		{8CF8E84F-7FE9-4146-941D-676897B58848}.Debug|x64.Build.0 = Debug|x64
+		{8CF8E84F-7FE9-4146-941D-676897B58848}.Debug|x86.ActiveCfg = Debug|Win32
+		{8CF8E84F-7FE9-4146-941D-676897B58848}.Debug|x86.Build.0 = Debug|Win32
+		{8CF8E84F-7FE9-4146-941D-676897B58848}.Release|x64.ActiveCfg = Release|x64
+		{8CF8E84F-7FE9-4146-941D-676897B58848}.Release|x64.Build.0 = Release|x64
+		{8CF8E84F-7FE9-4146-941D-676897B58848}.Release|x86.ActiveCfg = Release|Win32
+		{8CF8E84F-7FE9-4146-941D-676897B58848}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
